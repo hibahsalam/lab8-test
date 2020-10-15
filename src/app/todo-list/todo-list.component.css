@@ -1,0 +1,17 @@
+.div1{
+    text-align: left;
+}
+h1{
+    background-color: rgb(245, 49, 49);
+}
+button{
+    background-color: rgb(241, 154, 82);
+}
+.btn{
+    width: 100px;
+    margin-top: 2%;
+    padding: 1%;
+}
+.heading1{
+    width: 200px;
+}

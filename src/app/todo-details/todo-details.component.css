@@ -1,0 +1,23 @@
+.div1{
+    margin-top: 2%;
+    text-align: left;
+}
+.div2{
+    padding: 0.5%;
+}
+.div3{
+    width: 40px;
+    background-color: rgb(245, 49, 49);
+}
+.div4{
+    padding: 1%;
+}
+.lbl{
+    background-color: rgb(245, 49, 49);
+    padding:1%;
+}
+.heading1{
+    width: 250px;
+    background-color: rgb(245, 49, 49);
+}
+   
